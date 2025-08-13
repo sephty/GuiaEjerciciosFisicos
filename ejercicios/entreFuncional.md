@@ -12,3 +12,7 @@ Este tipo de entrenamiento imita movimientos cotidianos para mejorar la funciona
 1. Calienta con ejercicios dinámicos.
 2. Realiza circuitos con movimientos como sentadillas, saltos y empujes.
 3. Enfría con ejercicios suaves y estiramientos.
+
+### Consejos
+- Controla cada movimiento.
+- Prioriza la técnica sobre la velocidad.
