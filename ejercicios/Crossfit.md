@@ -12,3 +12,7 @@ El CrossFit combina ejercicios funcionales de alta intensidad en entrenamientos 
 1. Haz un calentamiento dinámico.
 2. Realiza el WOD (Workout of the Day).
 3. Enfría con movilidad y estiramientos.
+
+### Consejos
+- Escala los ejercicios según tu nivel.
+- Aprende la técnica con supervisión.
