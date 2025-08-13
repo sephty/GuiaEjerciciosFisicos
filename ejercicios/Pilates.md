@@ -12,3 +12,7 @@ Pilates es un sistema de ejercicios que fortalece los músculos profundos, mejor
 1. Calienta con movimientos suaves.
 2. Realiza ejercicios controlados enfocándote en el abdomen y la respiración.
 3. Finaliza con estiramientos.
+
+### Consejos
+- Mantén el control en cada repetición.
+- Respira de forma coordinada con el movimiento.
